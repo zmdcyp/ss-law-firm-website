@@ -1,0 +1,9 @@
+.DS_Store
+__MACOSX/
+*.bak
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+node_modules/
